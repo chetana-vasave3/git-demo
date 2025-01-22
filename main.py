@@ -14,6 +14,8 @@ def even(n):
     else:
         print(n,"odd")
 # even(50)
+def replace(string):
+    string.replace("$","")
 
 if __name__== "__main__":
      hello()
